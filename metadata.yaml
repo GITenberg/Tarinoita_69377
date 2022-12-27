@@ -1,0 +1,45 @@
+_repo: Tarinoita_69377
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wainio, Niilo E.
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '39842'
+    url: http://www.gutenberg.org/2009/agents/39842
+    wikipedia: https://fi.wikipedia.org/wiki/Niilo_E._Wainio
+creator:
+  author:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69377'
+language: fi
+pgterms:marc905: 20220727062029mikszth
+pgterms:marc906: '1891'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: 'Finland: Werner Söderström,1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Hungarian -- Translations into Finnish'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kulta-neiti -- Se musta paikka -- Säkkipillin puhaltaja Lapaj --
+  Kummallinen kuitti -- Brezón hanhet -- Sisareni hautakiveä noutamassa.
+title: Tarinoita
+url: http://www.gutenberg.org/ebooks/69377
